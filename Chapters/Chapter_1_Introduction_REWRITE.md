@@ -183,7 +183,7 @@ UGENTIC's primary function is enabling stakeholders to assess whether Ubuntu-dri
 
 The research value emerges from stakeholder experiences and assessments, not from technical performance metrics. UGENTIC enables systematic investigation of the bridging hypothesis through empirical validation with those who understand real organizational operations.
 
-### 1.1.4 Problem Statement
+## 1.4 PROBLEM STATEMENT
 
 Despite extensive separate research in multi-agent AI systems (Moore, 2025; Krishnan, 2025), Ubuntu philosophy (Mhlambi, 2020; Mutswiri et al., 2025), and organizational IT operations (Benbya et al., 2021; Aldoseri et al., 2024), **no empirical evidence exists validating Ubuntu philosophy as a bridging mechanism between AI capabilities and organizational operations in real IT departments.**
 
@@ -202,15 +202,15 @@ This research addresses these problems through empirical investigation: developi
 
 ---
 
-## 1.4 AIM
+## 1.5 AIM
 
 The aim of this research is to empirically investigate whether Ubuntu philosophy can effectively bridge the gap between multi-agent AI capabilities and real organizational IT department operations, validated through stakeholder experiences and assessments from IT staff across strategic, tactical, and operational levels at Sun International GrandWest Casino.
 
 ---
 
-## 1.5 RESEARCH QUESTIONS
+## 1.6 RESEARCH QUESTIONS
 
-### 1.5.1 Research Objectives
+### 1.6.1 Research Objectives
 
 To achieve the research aim, this study pursues four specific objectives aligned with the research questions:
 
@@ -226,7 +226,7 @@ To evaluate how IT department stakeholders across strategic, tactical, and opera
 **Objective 4: Develop Transferable Design Principles**  
 To develop evidence-based design principles and implementation insights for applying Ubuntu philosophy as a bridging mechanism between AI capabilities and organizational operations in other IT department contexts.
 
-### 1.5.2 Research Questions
+### 1.6.2 Research Questions
 
 This research investigates the following primary question:
 
@@ -249,11 +249,11 @@ What design principles and implementation insights emerge from this case study r
 
 ---
 
-## 1.6 SIGNIFICANCE OF STUDY
+## 1.7 SIGNIFICANCE OF STUDY
 
 This research contributes across three critical dimensions: academic scholarship, practical organizational knowledge, and societal impact.
 
-### 1.6.1 Academic Contributions
+### 1.7.1 Academic Contributions
 
 **First Empirical Validation:**  
 This research provides the **first empirical investigation** of Ubuntu philosophy as a bridging mechanism between AI capabilities and organizational operations in a real IT department context. While extensive theoretical work exists on Ubuntu AI ethics (Mhlambi, 2020) and multi-agent organizational applications (Moore, 2025), no studies validate their integration through stakeholder experiences. This research addresses this empirical gap.
@@ -264,7 +264,7 @@ The research develops validated frameworks for translating cultural principles i
 **Methodological Innovation:**  
 Combining Design Science Research with Reflexive Thematic Analysis for validating bridging mechanisms represents methodological contribution. DSR provides artifact development framework while Reflexive TA captures stakeholder meaning-making about bridging effectiveness, enabling rigorous investigation of cultural-technical alignment questions.
 
-### 1.6.2 Practical Contributions
+### 1.7.2 Practical Contributions
 
 **Validated Bridging Approach:**  
 Organizations facing AI-workplace integration challenges gain evidence-based assessment of whether Ubuntu cultural frameworks effectively bridge gaps. Rather than generic "AI integration best practices," this research provides validated approach specifically addressing the AI-organizational disconnect documented by Upwork (2024) and Gallup (2024) research.
@@ -275,7 +275,7 @@ The research documents how Ubuntu principles translate to concrete AI behaviors,
 **SME Applicability:**  
 Focus on mid-sized enterprise context (GrandWest IT department) rather than large tech companies ensures findings relevant to organizations lacking massive technical investment capacity. This practical scalability extends potential impact beyond academic research contexts.
 
-### 1.6.3 Societal Contributions
+### 1.7.3 Societal Contributions
 
 **Indigenous Knowledge Validation:**  
 This research demonstrates African philosophical contribution to global AI challenges, validating Ubuntu beyond abstract ethics to practical technological application. This advances indigenous knowledge systems recognition in contemporary technology discourse (van Norren, 2023).
@@ -288,9 +288,9 @@ The research contributes uniquely South African approach to AI-organizational in
 
 ---
 
-## 1.7 RESEARCH SCOPE AND DELIMITATIONS
+## 1.8 RESEARCH SCOPE AND DELIMITATIONS
 
-### 1.7.1 Research Scope
+### 1.8.1 Research Scope
 
 This research focuses on **investigating Ubuntu philosophy as a bridging mechanism** between AI capabilities and organizational IT operations through a single organizational case study.
 
@@ -306,7 +306,7 @@ Research examines whether Ubuntu principles (interconnectedness, collective resp
 **Temporal Scope:**  
 October-November 2025 data collection through semi-structured interviews with 10-14 IT staff provides sufficient duration for stakeholder assessment within dissertation timeline constraints.
 
-### 1.7.2 Key Delimitations
+### 1.8.2 Key Delimitations
 
 **NOT System Development Research:**  
 This research does NOT investigate:
@@ -336,13 +336,13 @@ Findings provide validated frameworks for similar organizational contexts (SME t
 
 ---
 
-## 1.8 OVERVIEW OF STUDY
+## 1.9 OVERVIEW OF STUDY
 
 This dissertation comprises seven chapters systematically addressing the research questions through comprehensive investigation of Ubuntu as AI-organizational bridging mechanism. Chapter 2 examines existing scholarship across AI-organizational gaps, Ubuntu philosophy, and multi-agent systems through a 97-source literature review. Chapter 3 details the Design Science Research methodology, UGENTIC artifact development, semi-structured interview protocols, and Reflexive Thematic Analysis approach. Chapter 4 documents how Ubuntu principles operationalize as bridging mechanisms through six-agent architecture mirroring organizational structure. Chapter 5 presents empirical findings organized by research questions, demonstrating stakeholder experiences across strategic, tactical, and operational levels. Chapter 6 interprets findings within theoretical frameworks, examining bridging effectiveness and extracting design principles for culturally-grounded AI. Chapter 7 synthesizes the research contribution as first empirical evidence of Ubuntu bridging AI-organizational gaps, addresses limitations, and proposes future research directions.
 
 ---
 
-## 1.9 KEY DEFINITIONS
+## 1.10 KEY DEFINITIONS
 
 **AI-Organizational Gap:** The misalignment between AI system capabilities (individual optimization, autonomous decision-making, generic interfaces) and organizational operational realities (collective coordination, hierarchical consultation, context-specific workflows). This gap prevents effective AI integration despite technical sophistication.
 
@@ -370,7 +370,7 @@ This dissertation comprises seven chapters systematically addressing the researc
 
 ---
 
-## 1.10 CONCLUSION
+## 1.11 CONCLUSION
 
 This chapter establishes the foundation for investigating Ubuntu philosophy as a bridging mechanism between AI capabilities and organizational operational realities. The research addresses a critical gap where technically sophisticated AI systems fail to integrate effectively because they do not align with organizational collaboration needs and workflows. By operationalizing Ubuntu principles through the UGENTIC multi-agent system and validating bridging effectiveness through stakeholder assessment, this research contributes the first empirical evidence of culturally-grounded AI design as a viable solution to AI-organizational integration challenges.
 
